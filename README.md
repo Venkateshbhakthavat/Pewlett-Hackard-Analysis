@@ -17,6 +17,16 @@ iV) The Company needs to find outside mentors to train the existing employees to
 
 
 Summary
+
+
+
+
+
+
+
+
+
+
 <img width="420" alt="Capture" src="https://user-images.githubusercontent.com/86161480/130881350-48cf83c2-2e8f-433b-b02d-ace3a3c6281a.PNG">
 
 
