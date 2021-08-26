@@ -1,7 +1,11 @@
-Overview of the Analysis
+Overview of the Analysis,
+
+
 The Purpose of this analysis is to find the retiring employees by title and also to identify retiring employees to participate in the Mentorship Program.
 
 Results,
+
+
 i) The retiring employee count is 90,398.
 ii) The retirinbg employees eligible for mentorship program is 1549.
 iii) Senior Engineer and senior staff is the department which will have a great shortage of workers.
