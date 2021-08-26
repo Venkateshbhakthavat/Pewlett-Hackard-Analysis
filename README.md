@@ -7,8 +7,14 @@ Results,
 
 
 i) The retiring employee count is 90,398.
+
+
 ii) The retirinbg employees eligible for mentorship program is 1549.
+
+
 iii) Senior Engineer and senior staff is the department which will have a great shortage of workers.
+
+
 iV) The Company needs to find outside mentors to train the existing employees to avoid worker shortages.
 
 
